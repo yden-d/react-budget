@@ -1,0 +1,66 @@
+{
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Rent",
+      "category": "Housing",
+      "amount": 1200
+    },
+    {
+      "name": "Netflix",
+      "category": "Subscriptions",
+      "date": "2023-12-22T19:36:52.107Z",
+      "notes": "",
+      "amount": "25",
+      "id": 2
+    },
+    {
+      "name": "Electricity",
+      "category": "Utilities",
+      "date": "2023-12-22T19:37:13.698Z",
+      "notes": "",
+      "amount": "75",
+      "id": 3
+    },
+    {
+      "name": "Spotify",
+      "category": "Subscriptions",
+      "date": "2023-12-22T20:06:59.885Z",
+      "notes": "",
+      "amount": "6",
+      "id": 4
+    },
+    {
+      "name": "Dinner",
+      "category": "Entertainment",
+      "date": "2023-12-22T20:09:26.687Z",
+      "notes": "",
+      "amount": "80",
+      "id": 5
+    },
+    {
+      "name": "Gym",
+      "category": "Health and Wellness",
+      "date": "2023-12-22T20:09:39.081Z",
+      "notes": "",
+      "amount": "25",
+      "id": 6
+    },
+    {
+      "name": "Supplements",
+      "category": "Health and Wellness",
+      "date": "2023-12-22T20:10:12.144Z",
+      "notes": "",
+      "amount": "100",
+      "id": 7
+    },
+    {
+      "name": "Test",
+      "category": "Entertainment",
+      "date": "2023-12-23T00:06:29.176Z",
+      "notes": "",
+      "amount": "200",
+      "id": 8
+    }
+  ]
+}
